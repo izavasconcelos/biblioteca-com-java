@@ -1,0 +1,105 @@
+[
+  {
+    "userName": "Izabela",
+    "userPhone": "51999632459",
+    "currentLoans": 2,
+    "loanList": [
+      {
+        "bookTitle": "My Bloody Roots",
+        "userName": "Izabela",
+        "loanDate": {
+          "year": 2020,
+          "month": 9,
+          "day": 8
+        },
+        "dueDate": {
+          "year": 2020,
+          "month": 9,
+          "day": 15
+        },
+        "fineForDelay": 0.0
+      },
+      {
+        "bookTitle": "Eu sou Ozzy",
+        "userName": "Izabela",
+        "loanDate": {
+          "year": 2020,
+          "month": 8,
+          "day": 24
+        },
+        "dueDate": {
+          "year": 2020,
+          "month": 8,
+          "day": 27
+        },
+        "fineForDelay": 60.0
+      }
+    ],
+    "totalLoans": 27
+  },
+  {
+    "userName": "João",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 0
+  },
+  {
+    "userName": "Marina",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 0
+  },
+  {
+    "userName": "Gabriela",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 5
+  },
+  {
+    "userName": "Rafael",
+    "userPhone": "51999632459",
+    "currentLoans": 1,
+    "loanList": [
+      {
+        "bookTitle": "O símbolo perdido",
+        "userName": "Rafael",
+        "loanDate": {
+          "year": 2020,
+          "month": 9,
+          "day": 1
+        },
+        "dueDate": {
+          "year": 2020,
+          "month": 9,
+          "day": 1
+        },
+        "fineForDelay": 35.0
+      }
+    ],
+    "totalLoans": 7
+  },
+  {
+    "userName": "Ana",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 3
+  },
+  {
+    "userName": "Carolina",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 2
+  },
+  {
+    "userName": "Isadora",
+    "userPhone": "51999632459",
+    "currentLoans": 0,
+    "loanList": [],
+    "totalLoans": 1
+  }
+]

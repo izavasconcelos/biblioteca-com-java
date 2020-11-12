@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Ultimo turno",
+    "author": "Sthephen King",
+    "id": 0,
+    "loanStatus": false
+  },
+  {
+    "title": "O símbolo perdido",
+    "author": "Dan Brown",
+    "id": 1,
+    "loanStatus": true
+  },
+  {
+    "title": "Origem",
+    "author": "Dan Brown",
+    "id": 2,
+    "loanStatus": false
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "id": 3,
+    "loanStatus": false
+  },
+  {
+    "title": "Mr Mercedes",
+    "author": "Sthephen King",
+    "id": 4,
+    "loanStatus": false
+  },
+  {
+    "title": "Nao conte a ninguem",
+    "author": "Harlan Coben",
+    "id": 5,
+    "loanStatus": false
+  },
+  {
+    "title": "Eu sou Ozzy",
+    "author": "Ozzy Osbourne",
+    "id": 6,
+    "loanStatus": true
+  },
+  {
+    "title": "Alta tensão",
+    "author": "Harlan Coben",
+    "id": 7,
+    "loanStatus": false
+  },
+  {
+    "title": "My Bloody Roots",
+    "author": "Max Cavalera",
+    "id": 8,
+    "loanStatus": true
+  },
+  {
+    "title": "Confie em mim",
+    "author": "Harlan Coben",
+    "id": 9,
+    "loanStatus": false
+  },
+  {
+    "title": "Seis anos depois",
+    "author": "Harlan Coben",
+    "id": 10,
+    "loanStatus": false
+  }
+]
